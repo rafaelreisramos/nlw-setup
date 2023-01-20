@@ -13,8 +13,11 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
 - [Tailwindcss](https://tailwindcss.com/)
+- [NativeWind](https://www.nativewind.dev/)
 - [Vite](https://vitejs.dev/)
+- [Radix UI](https://www.radix-ui.com/)
 - [Expo](https://expo.dev/)
 
 ## 🔖 Layout
