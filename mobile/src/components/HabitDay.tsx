@@ -1,10 +1,14 @@
 import { Dimensions, TouchableOpacity } from 'react-native'
 
 const WEEK_DAYS = 7
-const SCREEN_HORIZONTAL_PADDING = (32 * 2) / 5
+const SCREEN_HORIZONTAL_PADDING = 32 * 2
+const DAY_SIZE_MARGIN = WEEK_DAYS * 8 // 8 -> m-1 (4px) on each day
 
 export const DAY_SIZE =
-  Dimensions.get('screen').width / WEEK_DAYS - (SCREEN_HORIZONTAL_PADDING + 5)
+  (Dimensions.get('screen').width -
+    SCREEN_HORIZONTAL_PADDING -
+    DAY_SIZE_MARGIN) /
+  WEEK_DAYS
 
 function HabitDay() {
   return (
