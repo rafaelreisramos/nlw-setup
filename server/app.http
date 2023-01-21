@@ -7,7 +7,7 @@ content-type: application/json
 }
 
 ###
-GET http://localhost:3333/day?date=2023-01-20T14:00:00.000z
+GET http://localhost:3333/day?date=2023-01-21T14:00:00.000z
 
 ###
 PATCH http://localhost:3333/habits/0730ffac-d039-4194-9571-01aa2aa0efbd/toggle
