@@ -36,6 +36,6 @@ O projeto foi desenvolvido durante a **[NLW Setup](https://app.rocketseat.com.br
 
 ## Idéias para o próximo nível
 
-- [] Autenticação (Firebase, Auth0, ...)
-- [] Notificações Push (mobile) / Service Workers (web)
-- [] Perfil público com gráfico de resumo
+- [ ] Autenticação (Firebase, Auth0, ...)
+- [ ] Notificações Push (mobile) / Service Workers (web)
+- [ ] Perfil público com gráfico de resumo
