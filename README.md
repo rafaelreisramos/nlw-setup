@@ -33,3 +33,9 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 O projeto é um Habit tracker.
 
 O projeto foi desenvolvido durante a **[NLW Setup](https://app.rocketseat.com.br/event/nlw-setup)**, apresentada entre os dias 16 e 20 de Janeiro de 2023.
+
+## Idéias para o próximo nível
+
+- [] Autenticação (Firebase, Auth0, ...)
+- [] Notificações Push (mobile) / Service Workers (web)
+- [] Perfil público com gráfico de resumo
